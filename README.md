@@ -1,9 +1,9 @@
 # White-Paper-Monero Biała księga Monero
 
-##PRZEGLĄD BIAŁEJ KSIĘGI KRYPTONOTE
-##SURAE NOETHER
+## PRZEGLĄD BIAŁEJ KSIĘGI KRYPTONOTE
+## SURAE NOETHER
 
-###Niniejszy artykuł jest dedykowany Emmy Noether, Satoshi Nakamoto i Grupie Bourbaki.
+### Niniejszy artykuł jest dedykowany Emmy Noether, Satoshi Nakamoto i Grupie Bourbaki.
 
 Streszczenie. Ten dokument nie jest przeznaczony jako porada finansowa; jest to jedna z opinii matematyka na temat białej księgi przed zagłębieniem się w kod. Pisząc ten dokument, wiele się nauczyłem. Piszę tę recenzję częściowo po to, aby zwiększyć rygor naukowy białej księgi CryptoNote (CN), która już teraz wyprzedza o mile dostępne alternatywy, ale także aby skrytykować ten dokument za jego niespójności i niekompletność. Dla pełnego ujawnienia, zostałem zatrudniony przez twórców Monero (XMR) do zbadania protokołu CryptoNote oraz bazy kodu ByteCoin, z której rozwidlono Monero. Osoby zaangażowane w zatrudnienie mnie nie brały udziału w moim procesie recenzji poza odpowiadaniem na moje pytania techniczne i sporadycznym wysyłaniem mi pieniędzy, gdy grzecznie ich o to poproszę i pokażę im adnotacje, które zrobiłem. Płacą mi w Bitcoinach, a nie w jakiejkolwiek walucie opartej na CryptoNote. Tak, posiadam i przechowuję waluty CryptoNote.
 Ponadto chciałbym wstępnie przeprosić Nicolasa van Saberhagena i twórców CryptoNote, jeśli nadepnąłem Wam na odcisk. Prawdopodobnie siedzicie w tym po kolana od lat. Jeśli powiedziałem coś rażąco niepoprawnego, idiotycznego, niedoinformowanego lub błędnego, z przyjemnością poprawię zapis i zostanę poinformowany. Jestem tu, aby się uczyć, a nie pouczać. Po prostu napisz do mnie e-mail, to porozmawiamy. Ale zostałem zatrudniony do napisania krytyki, jestem matematykiem, a niektóre z waszych indeksów były błędne. Nie bierz tego do siebie.
