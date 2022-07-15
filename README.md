@@ -1,1 +1,1 @@
-# Bia-a-ksi-ga-Monero
+# White-Paper-Monero
