@@ -1,6 +1,5 @@
 ![moner - logo](https://www.getmonero.org/img/monero-logo.png)
-# White-Paper-Monero
-# Biała księga Monero
+# White-Paper-Monero<br>Biała księga Monero
 
 ## PRZEGLĄD BIAŁEJ KSIĘGI KRYPTONOTE
 ## SURAE NOETHER
